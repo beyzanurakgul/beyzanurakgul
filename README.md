@@ -1,4 +1,4 @@
-🌟 Merhaba! Ben Beyza
+🌟 Merhaba! Ben Beyza ,
 Frontend Developer olarak kod yazmayı, yaratıcı projeler kurgulamayı ve hayata geçirmeyi seviyorum. 👨‍💻 Her satır kodda yeni bir hikaye yazıyor, her projede yeni bir yolculuğa çıkıyorum.
 
 💡 Uzmanlık Alanlarım:
