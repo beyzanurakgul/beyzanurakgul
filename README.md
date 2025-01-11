@@ -33,3 +33,27 @@ I enjoy creating projects that simplify people's lives while delivering aestheti
 Feel free to reach out if you’d like to work together on amazing projects. I’m excited to explore new technologies and collaborate on innovative ideas.
 
 🚀 Let’s push the boundaries together!
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+## 🌟 HTML-CSS:
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>🌐 My Portfolio</h3>
+        <a href="https://beyzanurakgul.github.io/portfolio/" target="_blank">
+          <img src="https://via.placeholder.com/300x150?text=Portfolio+Website" alt="Portfolio Website" width="300"/>
+        </a>
+        <br>
+        <a href="https://beyzanurakgul.github.io/portfolio/" target="_blank"><strong>🔗 Visit Portfolio</strong></a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+
