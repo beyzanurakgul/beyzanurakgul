@@ -1,59 +1,110 @@
-🌟 Merhaba! Ben Beyza ,
-Frontend Developer olarak kod yazmayı, yaratıcı projeler kurgulamayı ve hayata geçirmeyi seviyorum. 👨‍💻 Her satır kodda yeni bir hikaye yazıyor, her projede yeni bir yolculuğa çıkıyorum.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beyza's Portfolio</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 20px;
+            text-align: center;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 2.5em;
+            color: #5e4b8b;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+            margin-bottom: 30px;
+        }
+        .expertise {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;
+            margin-bottom: 40px;
+        }
+        .expertise div {
+            background-color: #eef1f6;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+            width: 200px;
+            text-align: center;
+        }
+        .expertise h3 {
+            color: #6a2c9c;
+            font-size: 1.4em;
+            margin-bottom: 10px;
+        }
+        .expertise p {
+            font-size: 1em;
+            color: #777;
+        }
+        .portfolio {
+            margin-top: 40px;
+        }
+        .portfolio a {
+            color: #5e4b8b;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 1.2em;
+        }
+        .portfolio img {
+            width: 300px;
+            border-radius: 8px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌟 Hello! I'm Beyza</h1>
+        <p>As a Frontend Developer, I love coding, designing creative projects, and bringing them to life. 👨‍💻 Every line of code tells a new story, and every project is a new journey.</p>
 
-💡 Uzmanlık Alanlarım:
+        <div class="expertise">
+            <div>
+                <h3>🖌️ HTML & CSS</h3>
+                <p>Pixel-perfect designs</p>
+            </div>
+            <div>
+                <h3>⚡ JavaScript & React</h3>
+                <p>Dynamic and engaging interfaces</p>
+            </div>
+            <div>
+                <h3>🚀 Next.js</h3>
+                <p>Fast and SEO-friendly applications</p>
+            </div>
+            <div>
+                <h3>🎨 UI/UX</h3>
+                <p>User-centered and elegant designs</p>
+            </div>
+        </div>
 
-🖌️ HTML & CSS — Piksel mükemmel tasarımlar
-⚡ JavaScript & React — Dinamik ve etkileyici arayüzler
-🚀 Next.js — Hızlı ve SEO dostu uygulamalar
-🎨 UI/UX — Kullanıcı odaklı ve şık tasarımlar
-🌱 Tutkum:
-Kullanıcıların hayatını kolaylaştıran, estetik ve işlevsellik sunan projeler geliştirmek. Teknolojiyi öğrenmeyi ve yenilikçi çözümlerle üretmeyi çok seviyorum!
+        <p>Feel free to reach out if you’d like to work together on amazing projects. Let’s push the boundaries together!</p>
 
-🤝 İşbirliğine Açığım:
-Birlikte harika işler çıkarmak için iletişime geçebilirsiniz. Yeni teknolojileri keşfetmek ve projelerde işbirliği yapmak için sabırsızlanıyorum.
-
-🚀 Haydi birlikte sınırları zorlayalım!
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-🌟 Hello! I'm Beyza
-As a Frontend Developer, I love coding, designing creative projects, and bringing them to life. 👨‍💻 Every line of code tells a new story, and every project is a new journey.
-
-💡 My Expertise:
-
-🖌️ HTML & CSS — Pixel-perfect designs
-⚡ JavaScript & React — Dynamic and engaging interfaces
-🚀 Next.js — Fast and SEO-friendly applications
-🎨 UI/UX — User-centered and elegant designs
-🌱 My Passion:
-I enjoy creating projects that simplify people's lives while delivering aesthetics and functionality. I’m passionate about learning new technologies and producing innovative solutions!
-
-🤝 Open to Collaboration:
-Feel free to reach out if you’d like to work together on amazing projects. I’m excited to explore new technologies and collaborate on innovative ideas.
-
-🚀 Let’s push the boundaries together!
-
-
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-## 🌟 HTML-CSS:
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🌐 My Portfolio</h3>
-        <a href="https://beyzanurakgul.github.io/portfolio/" target="_blank">
-          <img src="https://via.placeholder.com/300x150?text=Portfolio+Website" alt="Portfolio Website" width="300"/>
-        </a>
-        <br>
-        <a href="https://beyzanurakgul.github.io/portfolio/" target="_blank"><strong>🔗 Visit Portfolio</strong></a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-
-
+        <div class="portfolio">
+            <h3>🌐 My Portfolio</h3>
+            <a href="https://beyzanurakgul.github.io/portfolio/" target="_blank">
+                <img src="https://via.placeholder.com/300x150?text=Portfolio+Website" alt="Portfolio Website" />
+            </a>
+            <br>
+            <a href="https://beyzanurakgul.github.io/portfolio/" target="_blank">🔗 Visit Portfolio</a>
+        </div>
+    </div>
+</body>
+</html>
